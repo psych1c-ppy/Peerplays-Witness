@@ -4,15 +4,15 @@
 
 This witness provisions only an API seed node to support end user application at this time. An API seed node provides data to dapps be it an official or unofficial one. There are plans to setup a testnet in the near future.
 
-* [ ] Full Node (block producer/signer)
+🗵 Full Node (block producer/signer)
 
   In order for this to be fulfilled, the psych1c witness must be voted in as an Active Witness.
 
-* [ ] Testnet
+🗵 Testnet
 
-* [x] API Seed Node
+🗹 API Seed Node
 
-* [ ] Bookie Oracle Suite (BOS)
+🗵 Bookie Oracle Suite (BOS)
 
 ### DAPPS
 
