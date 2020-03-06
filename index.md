@@ -51,3 +51,7 @@ Should you vote for this witness?
 Short answer: not right now.
 
 Maintaining the various nodes required to be considered as a full fledged witness takes a lot of time and dedicated hardware and networking. At this time, I do not have the capacity to operate the unchecked items in the About section.
+
+## Using this as a API in dapps
+
+This subdomain is the documentation page, to access the API ensure you use [https://api.psych1c.com/](https://api.psych1c.com/)
